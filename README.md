@@ -1,6 +1,7 @@
 # MedTCS
 
-This project aims to provide an **Med**ical **T**erminology based **C**omputing **S**ystem (MedTCS): a
+This is the official code repository for the Frontiers in Molecular Biosciences, 12 August 2022 Sec. Molecular Diagnostics and Therapeutic paper [Medical terminology-based computing system: a lightweight post-processing solution for out-of-vocabulary multi-word terms](https://www.frontiersin.org/articles/10.3389/fmolb.2022.928530/full#.YyPtkbGGAT1.linkedin) by [Nadia Saeed](https://twitter.com/i181606), and [Hammad Naveed](https://www.linkedin.com/in/hammad-naveed-a310782/).
+The research composed a **Med**ical **T**erminology based **C**omputing **S**ystem (MedTCS): a
 lightweight post-processing solution for out-of-vocabulary(OOV) multi-word terms. 
 MedTCS is a natural language processing system helps the distributed representation models (like: Word2Vec, GloVe) to handle the OOV problem effectively. 
 
